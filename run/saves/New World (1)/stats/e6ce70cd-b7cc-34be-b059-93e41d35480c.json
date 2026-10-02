@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:rotten_flesh": 1
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 2
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 2,
+      "minecraft:lava_bucket": 2,
+      "minecraft:splash_potion": 3,
+      "minecraft:wooden_sword": 5
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 5936,
+      "minecraft:time_since_rest": 2843,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:walk_one_cm": 2917,
+      "minecraft:total_world_time": 2843,
+      "minecraft:fly_one_cm": 6468,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 790,
+      "minecraft:play_time": 2843,
+      "minecraft:damage_dealt": 202,
+      "minecraft:jump": 34,
+      "minecraft:time_since_death": 2843
+    }
+  },
+  "DataVersion": 4671
+}

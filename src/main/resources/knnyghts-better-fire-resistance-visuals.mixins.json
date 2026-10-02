@@ -3,7 +3,7 @@
 	"package": "knnyght.modid.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"EntityMixin"
+		"client.LivingEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
@@ -12,6 +12,8 @@
 		"requireAnnotations": true
 	},
 	"client": [
-		"client.InGameOverlayRendererMixin"
+		"client.ClientPlayNetworkHandlerMixin",
+		"client.InGameOverlayRendererMixin",
+		"client.LivingEntityRendererMixin"
 	]
 }

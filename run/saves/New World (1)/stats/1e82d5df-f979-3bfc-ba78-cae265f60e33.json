@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 295,
+      "minecraft:walk_one_cm": 1850,
+      "minecraft:total_world_time": 295,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 60,
+      "minecraft:play_time": 295,
+      "minecraft:damage_dealt": 151,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 295
+    },
+    "minecraft:used": {
+      "minecraft:wooden_sword": 5
+    }
+  },
+  "DataVersion": 4671
+}

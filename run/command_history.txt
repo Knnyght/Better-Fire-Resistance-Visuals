@@ -6,3 +6,34 @@
 /gamemode survival
 /summon husk
 /gamemode creative
+/gamemode survival
+/summon minecraft:zombie
+/gamemode creative
+/summon minecraft:zombie
+/gamemode survival
+/effect clear @s
+/kill @e
+/gamerule spawn_mobs false
+/kill @e
+/gamemode creative
+/gamemode survival
+/give @s minecraft:lava_bucket
+/effect clear @s
+/gamemode creative
+/summon minecraft:zombie ~ ~ ~ {custom_name: "bob"}
+/give @s minecraft:name_tag
+/give @s minecraft:anvil
+/summon minecraft:zombie ~ ~ ~ {custom_name: "bob"}
+/give @s minecraft:wooden_sword
+/enchant @s minecraft:fire_aspect
+/summon minecraft:zombie ~ ~ ~ {custom_name: "bob"}
+/gamemode survival
+/summon minecraft:zombie ~ ~ ~ {custom_name: "bob"}
+/gamemode creative
+/summon minecraft:zombie ~ ~ ~ {custom_name: "bob"}
+/gamemode survival
+/effect give @s minecraft:instant_health infinite 99 true
+/effect clear @s minecraft:fire_resistance
+/summon minecraft:zombie ~ ~ ~ {custom_name: "bob"}
+/gamemode creative
+/summon minecraft:zombie ~ ~ ~ {custom_name: "bob"}

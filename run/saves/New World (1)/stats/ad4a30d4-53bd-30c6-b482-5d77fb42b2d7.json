@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:bucket": 1,
+      "minecraft:splash_potion": 1,
+      "minecraft:wooden_sword": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 362,
+      "minecraft:walk_one_cm": 893,
+      "minecraft:total_world_time": 374,
+      "minecraft:fly_one_cm": 811,
+      "minecraft:play_time": 362,
+      "minecraft:damage_dealt": 29,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 362
+    }
+  },
+  "DataVersion": 4671
+}

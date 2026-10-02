@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:splash_potion": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 361,
+      "minecraft:walk_one_cm": 738,
+      "minecraft:total_world_time": 361,
+      "minecraft:play_time": 361,
+      "minecraft:jump": 1,
+      "minecraft:time_since_death": 361
+    }
+  },
+  "DataVersion": 4671
+}

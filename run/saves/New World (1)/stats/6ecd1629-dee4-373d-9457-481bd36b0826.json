@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 980,
+      "minecraft:time_since_rest": 1038,
+      "minecraft:walk_one_cm": 2696,
+      "minecraft:total_world_time": 1038,
+      "minecraft:fly_one_cm": 10081,
+      "minecraft:mob_kills": 1,
+      "minecraft:play_time": 1038,
+      "minecraft:damage_dealt": 75,
+      "minecraft:jump": 36,
+      "minecraft:time_since_death": 1038
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 20,
+      "minecraft:splash_potion": 2
+    }
+  },
+  "DataVersion": 4671
+}

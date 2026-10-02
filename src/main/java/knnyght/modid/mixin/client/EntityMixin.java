@@ -1,4 +1,4 @@
-package knnyght.modid.mixin;
+/*package knnyght.modid.mixin.client;
 
 import knnyght.modid.KnnyghtSBetterFireResistanceVisuals;
 import knnyght.modid.config.ModConfig;
@@ -65,7 +65,7 @@ public abstract class EntityMixin {
              * their fire resistance is about to wear off, or
              * they are holding a bucket of milk (which can remove the fire resistance),
              * then don't extinguish the fire, as a warning.
-             */
+             *//*
             if (((Entity) (Object) this).getFireTicks() > 0 && hasFireResistance
                     && !(this.world.getStatesInBoxIfLoaded(this.getBoundingBox().contract(0.001D)).anyMatch((blockState)
                     -> blockState.isIn(BlockTags.FIRE) || blockState.isOf(Blocks.LAVA))
@@ -78,4 +78,4 @@ public abstract class EntityMixin {
 
         }
     }
-}
+}*/

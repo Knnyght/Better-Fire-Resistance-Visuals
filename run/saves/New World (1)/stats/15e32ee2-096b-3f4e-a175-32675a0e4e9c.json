@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:wooden_sword": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 187,
+      "minecraft:walk_one_cm": 1174,
+      "minecraft:total_world_time": 187,
+      "minecraft:play_time": 187,
+      "minecraft:damage_dealt": 134,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 187
+    },
+    "minecraft:picked_up": {
+      "minecraft:rotten_flesh": 2
+    }
+  },
+  "DataVersion": 4671
+}
