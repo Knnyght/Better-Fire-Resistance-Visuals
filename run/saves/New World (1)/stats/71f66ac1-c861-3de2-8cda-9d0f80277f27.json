@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:husk": 2
+    },
+    "minecraft:used": {
+      "minecraft:golden_apple": 1,
+      "minecraft:lava_bucket": 3,
+      "minecraft:bucket": 2,
+      "minecraft:splash_potion": 4,
+      "minecraft:wooden_sword": 7,
+      "minecraft:milk_bucket": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2043,
+      "minecraft:walk_one_cm": 5155,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 124,
+      "minecraft:play_time": 2043,
+      "minecraft:damage_dealt": 291,
+      "minecraft:jump": 25,
+      "minecraft:time_since_death": 2043,
+      "minecraft:sprint_one_cm": 280,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:total_world_time": 5428,
+      "minecraft:fly_one_cm": 1979
+    }
+  },
+  "DataVersion": 4671
+}

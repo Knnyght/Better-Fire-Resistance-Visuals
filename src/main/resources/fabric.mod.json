@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "knnyghts-better-fire-resistance-visuals",
+	"version": "${version}",
+	"name": "Knnyght's Better Fire Resistance Visuals",
+	"description": "Hides first person fire overlay and fire effect on entities with fire resistance for better visibility",
+	"authors": [
+		"Knnyght"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/knnyghts-better-fire-resistance-visuals/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"knnyght.modid.KnnyghtSBetterFireResistanceVisuals"
+		],
+		"modmenu": [
+			"knnyght.modid.config.ModMenuEntry"
+		]
+	},
+	"mixins": [
+		"knnyghts-better-fire-resistance-visuals.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
